@@ -8,6 +8,8 @@
 	<modules>
 		<module>inception-v4-weights-1</module>	
 		<module>inception-v4-weights-2</module>
+ 		<module>yolo-v2-weights-1</module>
+		<module>yolo-v2-weights-2</module>	
         </modules>
 	 <reporting>
 		<plugins>
